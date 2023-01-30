@@ -1,0 +1,21 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.my-journey {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #171f46;
+  font-weight: 900;
+}
+.ccbp-heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #2b237c;
+  font-weight: 900;
+  margin-top: 15px;
+}

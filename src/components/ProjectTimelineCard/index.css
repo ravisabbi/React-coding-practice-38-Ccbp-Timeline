@@ -1,0 +1,35 @@
+.project-image {
+  width: 100%;
+}
+.project-duration-container {
+  display: flex;
+  align-items: center;
+}
+.calender-icon {
+  width: 10px;
+  height: 10px;
+}
+
+.project-title-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.project-description {
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+
+.project-title {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #1e293b;
+}
+
+.project-visit {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #0967d2;
+  text-decoration: none;
+}

@@ -1,0 +1,58 @@
+.title-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.duration-container {
+  display: flex;
+  align-items: center;
+}
+
+.course-title {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #171f46;
+}
+
+.clock-icon {
+  color: #171f46;
+  height: 15px;
+  width: 15px;
+  margin-right: 10px;
+}
+
+.course-duration {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #171f46;
+  font-weight: 700;
+}
+
+.course-description {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 300;
+}
+
+.tags-list {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.tag-name {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #1e293b;
+  font-weight: 400;
+  background-color: #c6cacf;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+}
